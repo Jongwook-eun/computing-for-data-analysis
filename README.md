@@ -1,4 +1,4 @@
-## 📁 Computing for Data Analysis
+## 📁 Computing for Data Analysis (Spring 2026)
 Georgia Tech Master of Science in Analytics — CSE 6040
 
 ---
